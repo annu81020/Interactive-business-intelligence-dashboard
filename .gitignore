@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.idea/
+.vscode/
+.streamlit/
+.ipynb_checkpoints/
+*.log
+.DS_Store
+data/processed/*
+report/*.pdf
+EOF
