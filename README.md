@@ -120,7 +120,7 @@ interactive-business-intelligence-dashboard/
 
 ### Clone Repository
 
-git clone <repository_url>
+git clone https://github.com/annu81020/Interactive-business-intelligence-dashboard
 
 cd interactive-business-intelligence-dashboard
 
